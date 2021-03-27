@@ -1,0 +1,22 @@
+{
+  "name": "Node_upload_download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hokori23/Node_upload_download.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hokori23/Node_upload_download/issues"
+  },
+  "homepage": "https://github.com/Hokori23/Node_upload_download#readme"
+}
